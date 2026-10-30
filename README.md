@@ -7,7 +7,7 @@ No OpenIV, CodeWalker or GTA install needed. This repository contains only the c
 ## Use it
 
 1. Download **Kitsune Trains 7** from gta5-mods.com. You get a `.zip` – don't unzip it.
-2. Download `PromptTrainConverter_KitsuneTrains.zip` from [Releases](../../releases) and unzip it.
+2. Download the latest `PromptTrainConverter_KitsuneTrains_v*.zip` from [Releases](../../releases) and unzip it.
 3. Put the Kitsune Trains `.zip` next to `PromptTrainConverter_KitsuneTrains.exe` (or leave it in your Downloads folder – the converter looks there too, or drag the zip onto the exe).
 4. Double-click the exe, type the numbers of the trains you want (e.g. `22, 25`) and press Enter.
 5. A `[kt_trains]` folder appears next to the zip. Follow `HOW_TO_INSTALL.txt` inside it.
